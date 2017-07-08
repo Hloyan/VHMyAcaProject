@@ -1,1 +1,1 @@
-print("Iam bot")
+print("I am a bot")
